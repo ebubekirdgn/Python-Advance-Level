@@ -1,8 +1,8 @@
 list = [1, 2, 3]
 tuple = (1, 'iki', 3)
 
-# print(type(list))
-# print(type(tuple))
+print(type(list))
+print(type(tuple))
 
 # print(list[2])
 # print(tuple[2])
@@ -11,8 +11,8 @@ tuple = (1, 'iki', 3)
 # print(len(list))
 
 list = ['ali','veli']
-tuple = ('damla','ayşe','ayşe')
-names = ('demet','emel','ayşe') + tuple
+tuple = ('elif','ayşe','ayşe')
+names = ('selma','emel','aysel') + tuple
 
 print(names)
 
