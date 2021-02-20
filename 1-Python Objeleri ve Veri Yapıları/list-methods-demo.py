@@ -1,3 +1,4 @@
+
 names = ['Ali','Yağmur','Hakan','Deniz']
 years = [1998, 2000, 1998, 1987]
 
@@ -12,15 +13,22 @@ years = [1998, 2000, 1998, 1987]
 # 3-  "Deniz" ismini listeden siliniz.
 # names.remove('Deniz')
 # names.pop()
-# names.pop(1)
+#print("Old List : ", names)
+#names.pop(1)
+#print("New List : ", names)
+
+#print(names)
 
 # 4-  "Deniz" isminin indeksi nedir ?
 # index  = names.index('Deniz')
 # names.pop(index)
+#print(names)
+
 
 # 5-  "Ali" listenin bir elemanı mıdır ?
-# result = 'Ali' in names
-# result = names.index('Ali')
+#result = 'Ali' in names
+#result = names.index('Ali')
+#print(result)
 
 # 6-  Liste elemanlarını ters çevirin.
 # names.reverse()
