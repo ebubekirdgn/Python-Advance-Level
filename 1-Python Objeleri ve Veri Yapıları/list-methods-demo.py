@@ -1,13 +1,13 @@
 names = ['Ali','Yağmur','Hakan','Deniz']
 years = [1998, 2000, 1998, 1987]
 
-# 1-  "Cenk" ismini listenin sonuna ekleyiniz.
-# names.append('Cenk')
+# 1-  "Ebubekir" ismini listenin sonuna ekleyiniz.
+# names.append('Ebubekir')
 
-# 2-  "Sena" değerini listenin başına ekleyiniz.
-# names.insert(0, 'Sena')
-# names.insert(-1, 'Mehmet')
-# names.insert(len(names), 'Mehmet')
+# 2-  "Selim" değerini listenin başına ekleyiniz.
+# names.insert(0, 'Selim')
+# names.insert(-1, 'Mahmut')
+# names.insert(len(names), 'Kerim')
 
 # 3-  "Deniz" ismini listeden siliniz.
 # names.remove('Deniz')
@@ -50,13 +50,13 @@ years = [1998, 2000, 1998, 1987]
 
 markalar = []
 
-marka = input("marka: ")
+marka = input("marka giriniz : ")
 markalar.append(marka)
 
-marka = input("marka: ")
+marka = input("marka giriniz : ")
 markalar.append(marka)
 
-marka = input("marka: ")
+marka = input("marka giriniz : ")
 markalar.append(marka)
 
 print(markalar)
