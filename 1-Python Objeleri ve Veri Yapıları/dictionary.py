@@ -20,23 +20,24 @@
 # print(plakalar)
 
 users = {
-    'sadikturan': {
-        'age': 36,        
+    'ebubekirdgn': {
+        'age': 27,        
         'roles': ['user'],
-        'email': 'sadik@gmail.com',
-        'address': 'kocaeli',
+        'email': 'dgn@gmail.com',
+        'address': 'samsun',
         'phone': '1231321'
     },
-    'cinarturan': {
+    'aliveli': {
         'age': 2,
         'roles': ['admin','user'],
-        'email': 'cinar@gmail.com',
-        'address': 'kocaeli',
+        'email': 'veli@gmail.com',
+        'address': 'istanbul',
         'phone': '1231321'
     }
 }
 
-print(users['cinarturan']['roles'][0])
+print(users['ebubekirdgn']['roles'][0])
+print(users['ebubekirdgn'])
 
 
 
