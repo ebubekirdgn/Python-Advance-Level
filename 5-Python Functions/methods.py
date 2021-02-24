@@ -9,7 +9,7 @@ list.pop()
 print(type(list))
 print(list)
 
-myString = 'Hello Ebubekir'
+myString = 'Hello'
 
 print(myString.upper())
 

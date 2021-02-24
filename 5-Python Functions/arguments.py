@@ -1,7 +1,7 @@
 # def changeName(n):
 #     n = 'ada'
 
-# name = 'ebubekir'
+# name = 'yiğit'
 
 # changeName(name)
 # print(name)

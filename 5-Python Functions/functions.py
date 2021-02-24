@@ -1,14 +1,11 @@
-# Ekrana hello ve gonderdigimiz isim degerini birlestirip yazan fonksiyon
 def sayHello(name = 'user'):
     return 'Hello '+ name
 
-msg = sayHello('Ebubekir')
-msg = sayHello('Dogan')
+msg = sayHello('Çınar')
+msg = sayHello('Ada')
 
 print(msg)
 
-
-#iki sayının toplamini veren fonksiyon
 def total(num1, num2):
     return num1 + num2
 
@@ -16,16 +13,14 @@ result = total(10,20)
 result = total(15,20)
 print(result)
 
-
-#Yas hesaplama fonksiyonu
 def yasHesapla(dogumYili):
-    return 2021 - dogumYili
+    return 2019 - dogumYili
 
-ageDogan = yasHesapla(2017)
-ageEbubekir = yasHesapla(2010)
-ageMelih = yasHesapla(1999)
+ageCinar = yasHesapla(2017)
+ageAda = yasHesapla(2010)
+ageSena = yasHesapla(1999)
 
-print(ageDogan, ageEbubekir, ageMelih)
+print(ageCinar, ageAda, ageSena)
 
 def EmekliligeKacYilKaldi(dogumYili, isim):
     '''
@@ -44,7 +39,7 @@ def EmekliligeKacYilKaldi(dogumYili, isim):
 
 EmekliligeKacYilKaldi(1983, 'Ali')
 EmekliligeKacYilKaldi(1950, 'Ahmet')
-EmekliligeKacYilKaldi(1974, 'Selim')
+EmekliligeKacYilKaldi(1974, 'Yağmur')
 
 print(help(EmekliligeKacYilKaldi))
 
