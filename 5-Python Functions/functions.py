@@ -1,5 +1,4 @@
-
- # Ekrana hello ve gonderdigimiz isim degerini birlestirip yazan fonksiyon
+# Ekrana hello ve gonderdigimiz isim degerini birlestirip yazan fonksiyon
 def sayHello(name = 'user'):
     return 'Hello '+ name
 
@@ -18,10 +17,7 @@ result = total(15,20)
 print(result)
 
 
-
-
 #Yas hesaplama fonksiyonu
-
 def yasHesapla(dogumYili):
     return 2021 - dogumYili
 
