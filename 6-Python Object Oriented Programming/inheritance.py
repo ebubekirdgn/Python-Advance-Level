@@ -38,9 +38,9 @@ class Teacher(Person):
     def who_am_i(self):
         print(f'I am a {self.branch} teacher')
 
-p1 = Person('Ali','Yılmaz')
-s1 = Student('Çınar','Turan', 1256)
-t1 = Teacher('Serkan','Yılmaz','Math')
+p1 = Person('Ebubekir','Dogan')
+s1 = Student('Selim','Sarac', 1256)
+t1 = Teacher('Funda','Yasar','Math')
 
 t1.who_am_i()
 
