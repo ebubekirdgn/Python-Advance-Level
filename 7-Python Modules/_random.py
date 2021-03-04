@@ -9,7 +9,7 @@ result = int(random.uniform(10,100))
 result = random.randint(1,100)
 
 greeting = 'hello there'
-names = ['ali','yağmur','deniz','cenk','ahmet','efe']
+names = ['ali','dogan','deniz','selim','kerim','ebubekir']
 # result = names[random.randint(0,len(names)-1)]
 
 result = random.choice(names)
