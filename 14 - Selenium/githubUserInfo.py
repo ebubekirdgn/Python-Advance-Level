@@ -1,2 +1,2 @@
-username = "ebubekirdgn"
-password = "Ebubekir1361"
+username = "<Kullanıcı Adı gelecek>"
+password = "<Parola Gelecek>"
