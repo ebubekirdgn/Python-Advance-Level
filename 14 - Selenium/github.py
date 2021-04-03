@@ -1,11 +1,10 @@
-from githubUerInfo import username, password
+from githubUserInfo import username, password
 from selenium import webdriver
 import time
 
 class Github:
     def __init__(self, username, password):
-        self.browser =  webdriver.Chrome('C:/Users/Ebubekir Dogan/Documents/GitHub/Python-Advance-Level/14 - Selenium/chromedriver')
-        
+        self.browser =  webdriver.Chrome('C:/Users/Ebubekir Dogan/Documents/GitHub/Python-Advance-Level/14 - Selenium/chromedriver') 
         self.username = username
         self.password = password
         self.followers = []
