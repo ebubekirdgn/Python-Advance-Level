@@ -24,7 +24,7 @@ class Twitter:
         btnSubmit =  self.browser.find_element_by_xpath("//*[@id='react-root']/div/div/div[2]/main/div/div/div[2]/form/div/div[3]/div")
 
         btnSubmit.click()
-
+ 
         time.sleep(2)
 
 twitter = Twitter(username,password)
