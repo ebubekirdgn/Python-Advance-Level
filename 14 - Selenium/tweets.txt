@@ -1,0 +1,421 @@
+1-Python kodunda sadece parantezi kapamayı unutmuşum ve hatayı 1 saat sonra fark ettim..
+8
+2-ah be teyzem keşke python öğrenseydin 
+Alıntı Tweet
+Artı Gerçek
+@artigercek
+ · 9s
+İzmir depreminde evi hasar gördüğü için bir okulun bahçesindeki konteynere yerleştirilen 93 yaşındaki Müşerref Yardaş’a okuldan elektrik bağlandı, iki ayda 530 TL fatura çıkarıldı. Faturaları ödeyemeyen Yardaş, karanlığa mahkûm edildi.
+https://artigercek.com/haberler/depremzedeye-reva-mi-bu…
+4
+3-World University Rank 2020 veri setinde Python İle kümeleme analizi yaptım. Üniversiteleri atıf sayısı ve puanlarına göre kümelediğimde 3 küme oluşuyor. 
+Bu kümeleri nasıl yorumlayabiliriz? #veribilimi #python
+4-1 saatte python öğrenme duası 
+Enter
+1
+4
+5-ECMWF haritalarina python dan erisip kıyaslayabilmek bir sonraki programlama beklentim. Desteklerinizi beklerim
+Alıntı Tweet
+ECMWF
+@ECMWF
+ · 9 Nis
+Online computing week, 17-21 May: Check out our webinars on a variety of topics related to software and applications used at ECMWF. More information: https://events.ecmwf.int/event/210/ #ECLearn #JupyterNotebooks #eccodes #AtosHPC #EuropeanWeatherCloud #metview #CliMetLab
+7
+6-pythonla 3. günüm. tabii ki bu konuda kesin konuşacak herhangi bi bilgim yok ama yine de söylemek istiyorum: bence programlama bilmeyen bir insana python gibi girişi kolay, insancıl ve dünyalar tatlısı bi dil varken en başta java öğretmek delilik. teşekkürler
+1
+3
+7-@kratosbunny
+ adlı kişiye yanıt olarak
+Sırf bu program için alternatif yöntemler bulup, her hafta PC veya Android üzerinden katılanlar var. Konusu geçti birkaç kez. Aklımda kalan anahtar kelimeler: github ve python... Bir araştır istersen.
+1
+8-@siminya
+ adlı kişiye yanıt olarak
+Bi tek onu denemedim, ondan olmuyo demek ki... Python eğitim seti enter
+1
+1
+9-@python_stripes
+ adlı kişiye yanıt olarak
+tsek man
+1
+1
+1
+10-Keşifçi veri analizi nedir ve python ile keşifçi veri analizi nasıl yapılır sizlere aktarmaya çalıştım. Umarım faydalı olmuştur.
+Python ile Keşifçi Veri Analizi
+Keşifçi veri analizi; veriyi doğru şekilde işlemenin en önemli basamaklarından biridir. Günümüzde veri biliminde kullanılan en kullanışlı…
+link.medium.com
+1
+3
+11-Python diye bir dil var mıdır sorusundan TÜBİTAK proje önerisinde HPC'de Python kod koşturmaya.
+4
+12-@finance_python
+ adlı kişiye yanıt olarak
+Aslında öncelik üretime devam eden özel sektöre verilmeli.
+1
+13-Python öğren
+Alıntı Tweet
+Cumhur Küçükkahveci
+@cumhurkk
+ · 12s
+@ZeynelSuicer adlı kişiye yanıt olarak
+Sektörün ne olursa olsun kendine yatırım yap. Bilgilerini güncelle. Sosyal medyadan, politikadan, haberlerden uzak dur. Kişisel eğitimine odaklan. Zamanını araştırmakla geçir. Biyografi oku. Başarı Videoları izle. Moralini yüksek tut. Herkese en iyi enerjini ver.
+8
+14-5-6-7-8 Nisan tarihlerinde Turkcell için Erdeniz Ünvan hocamızla birlikte düzenlemiş olduğumuz  Python Programming Lightening eğitimimizden kareler:
+
+#DevOps #NetDevOps #DevSecOps #Python #Automation #ObjectOrientedProgramming #RegularExpressions #Class #MultiParadigm #Exceptions
+1
+2
+2
+15-Python öğreniyorum canım kendim için. Mühendisliğin içinde veya başka sektörlerde iş bulmak için bu kadar çaba gösteriyorum,benim yerime torpilli bi çöp bilmeyen birini devlete alırlarsa hakkımı helal etmiyorum.
+1
+16-neyse işime döniyim web sitesi tasarımı da öğrendim yapay zeka python beni bekle...
+17-monty python and the holy grail izleyeceğim, daha önce de izlemiştim. benzeri başka bişey bulsam onu izlerdim ama hayat işte
+3
+2
+18-Python öğrenme maceramı hatırlıyor musunuz kare_al fonksiyonu yazdığımda bitmişti
+1
+19-Günlük makine öğrenimi çalışmaları için Python kütüphaneleri:
+
+• Tensorflow
+• NumPy
+• Pandas
+• Matplotlib
+• Scikit-Learn
+• XGBoost
+• OpenCV
+• Pillow
+
+Daha genel öğrenilmesi gereken kütüphaneleri
+
+• Requests
+• Flask
+• SQLAlchemy
+• PyTest
+• Black
+1
+1
+1
+20-@finance_python
+ adlı kişiye yanıt olarak
+Soda çok güzel bir hisseydi. Çok büyük devasa bilançosu olan ağır hantal bir hisse oldu. Yürümüyor hisse. Trakya Denizli hepsi farklı idi. Aynı şeyler #oyakc için de geçerli. Mardin istiyorum Mardin ve soda!
+1
+1
+21-@soldierofsaturn
+ @ulanburki
+ ve 
+@oguzhnyuksel
+ adlı kullanıcılara yanıt olarak
+Sallıyor aga 11 yazılım dilinin adını bile netten bakarak yazar yada max hello Word falandır dkskskks C dilini anlamak öğrenmek zaten 1 ömür alır yanına da belki Python.
+56
+22-Ücretsiz Python kitapları... Hemen hemen her konuda kitap var. Bilgiye ulaşmak artık çok kolay. Bilgi edinmek ve onu doğru kullanmak ise eskiden olduğu gibi çaba ve azim gerektiriyor.
+pamoroso/free-python-books
+Python books free to read online or download. Contribute to pamoroso/free-python-books development by creating an account on GitHub.
+github.com
+1
+2
+23-Stardew valley oynarken dekorasyon için mobilya ağaç bitki vs bakıyorumdur.
+Saif: yetiştirdiğimiz ürünlerden daha çok verim alabilmemiz için ihtiyacımız olan sulama sistemini hesaplayan bi Python programı yazdşdkdşdkk
+1
+1
+24-@FormatorMuallim
+ ve 
+@asilkafa
+ adlı kullanıcılara yanıt olarak
+Bir kaç öğrenciyle biraz daha ileri seviye programlama robotik ekleyebiliyorsunuz. Onda da ilgilenecek yer ekipman varsa. En azından ortaokuldan mezun olmadan Python, C#, Ardunio gibi dil ve kartlardan haberdar oluyorlar.
+25-Geleneksel olarak programcılar üniversitedeyken yeteneklerini geliştirmeye başlarlar. Fakat programlama alanına liderlik eden kişiler çoğunlukla üniversiteye girmeden önce eğitimlerine başlamıştır. #Kodris #Kodlama #Öğrenmenin #En #Kolay #Yolu #Code #Kod #Python #Pythoncode
+26-Berkeley's #ReinforcementLearning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode 
+https://bit.ly/2PIcGQb
+13
+5
+27-python, mitolojide tanrı apollon tarafından öldürülen dev bir yılanın adı olup, toprak ana gaia'nın oğluydu.
+Alıntı Tweet
+art.
+@lastbreakofdawn
+ · 23 Eyl 2020
+Apollo Slays Python, 1851 by Eugène Delacroix 
+
+sketch vs painting
+1
+1
+1
+28-Bu vesileyle ilk python programımı da yazmış oldum. Tuhaf derecede kolay ve eğlenceli bir dil. Lütfen 4.0'da biraz zorlaştırılsın.
+12
+29-@gokmengorgen
+ adlı kişiye yanıt olarak
+ne kadar çok ortak noktamız var :D
+Python ile Basit Blockchain Yapımı
+Aşağıda şu blockchain demosudan anladığım kadarıyla bir blockchain implementasyonu yaptım. Soru olursa yazabilirsiniz. from hashlib import sha256 from time import time HARDNESS = 4...
+miratcan.tumblr.com
+1
+1
+30-Cobol, fortran Pascal, delphi, Java, c#, python derken şimdi yapay zeka ufkuna gidiyor yazılım yolculuğum...
+#ai #yapayzeka #pyhton #ml
+2
+2
+31-Adam burmese python'a 10.000 TL yazmış şaka gibi aq o fiyata 3 tane ball python alırım ahahdjjwdjjsj
+32-Monty Python and the Holy Grail's budget of £200,000 was raised by 10 investors to contribute £20,000 each. 
+3 of those investors were Pink Floyd, Led Zeppelin, and Genesis.
+48
+266
+1,4 B
+33-↓ machine learning ↓
+
+• Python will get you started
+• You don't need to be special
+• You don't need to pay money
+• You don't need a college degree
+• Top-notch education is free online
+• Booming job market
+
+Commitment is all you need.
+35
+362
+2 B
+34-Python libraries for every day machine learning work:
+
+• Tensorflow
+• NumPy
+• Pandas
+• Matplotlib
+• Scikit-Learn
+• XGBoost
+• OpenCV
+• Pillow
+
+Non-machine learning specific libraries:
+
+• Requests
+• Flask
+• SQLAlchemy
+• PyTest
+• Black
+
+(credit: 
+@svpino
+)
+28
+376
+1,6 B
+35-homebrew on mac: a collection of tools and utilities designed to install as many copies of python on one computer as possible.
+34
+193
+2,1 B
+36-This beauty in his home. Your reaction if you meet him. Python.
+247
+248
+5,3 B
+37-If you're learning Python and need to solidify your fundamental skills, read this handbook.
+
+In it, 
+@flaviocopes
+ explains the major parts of the language with code samples.
+
+You'll learn about data types, dictionaries, functions, & more Python goodness.
+The Python Handbook
+This Python Handbook helps you learn 80% of the Python basics in 20% of the time.
+freecodecamp.org
+3
+142
+431
+38-I’m starting my alien invasion python project. 
+   
+
+#WomenWhoCode #Python
+GIF
+3
+2
+39-Planning ahead tonight with my new app. 
+
+Not software engineer level but a start for a Geospatial qualified person.
+
+#python #kivy
+2
+1
+40-Why businesses should adopt #AI in 2021; benefits you shouldn’t miss
+
+by 
+@AmyraSheldon
+ v/ 
+@ValueCoders
+ @Emma03391714
+ @GersonRolim
+ @intellimetri
+https://valuecoders.com/blog/technology-and-apps/why-businesses-should-adopt-ai-in-2021-benefits-you-shouldnt-miss/…
+
+#ML #DL #DigitalTransformation #100DaysOfCode #WomenInTech #Python #Coding #Chatbot #Robot #100DaysOfMLCode
+16
+12
+41-Python educators and users: I have been working on improving SyntaxError messages in CPython lately. What error (only *SyntaxErrors* for now 
+) messages you or your students have struggle with? Which ones you think we should improve? 
+ (Pls RT to help reaching more people 
+).
+33
+226
+253
+42-#Python program to reverse a string with examples https://buff.ly/3vDI6qY via 
+@pythonguides
+4
+1
+43-At the python 2 workshop, got stuff done thanks to 
+@michaelcao23
+ #Hackafromthepast
+1
+44-Day 3 of #100DaysOfCode Django time baby!. The D is silent. #Django #Python
+16
+13
+45-Built-in Data type in Python
+
+Learn more about Python:- https://knowprogram.com/python-program-examples/…
+
+#Python #Python3 #pythonprogramming #pythonlearning #pythonBot #100DaysOfCode #ArtificialIntelligence #code #knowprogram
+15
+10
+46-R3D89
+---
+recapped the basics of python today with a good vid from  
+@moshhamedani
+  
+https://youtube.com/watch?v=kqtD5dpn9C8…
+
+next
+.back to my main path: MERN 
+.learn about a headless CMS
+---
+#100DaysOfCode
+Python Tutorial for Beginners - Learn Python in 1 Hour
+This Python tutorial for beginners show how to get started with Python quickly. Learn to code in 1 hour! Watch this tutorial get started! 
+youtube.com
+5
+3
+47-This tutorial will show you how to execute linear regression in #python.
+
+https://bit.ly/3fW4xC9
+48-Python cheat sheet 
+https://websitesetup.org/wp-content/uploads/2020/04/Python-Cheat-Sheet.pdf…
+#CodeNewbie #100DaysOfCode
+1
+6
+3
+49-Day 12 of #100DaysOfCode: I'm up and running Python on my own machine! I'm writing code and running it in my terminal. 
+Hacker voice: I'm in
+2
+6
+9
+50-Trigger #python scripts by using your cell phone! Send a SMS and have you #cloud based script run automatically with WayScript.
+WayScript - Execute Python Scripts Via Text Message
+None
+wayscript.com
+1
+51-The release of bitarray package 1.9.2 is now available. 
+efficient arrays of booleans -- C extension
+https://github.com/ilanschnell/bitarray…
+
+#python #bitarray #programming
+ilanschnell/bitarray
+efficient arrays of booleans for Python. Contribute to ilanschnell/bitarray development by creating an account on GitHub.
+github.com
+3
+1
+52-Just completed Day 33 of #100DaysOfCode  
+@LondonAppBrewer
+Python Pro Bootcamp: API Endpoints and Parameters, and created an app to send emails to notify people when the International Space Station is overhead and observable
+5
+3
+53-Build the Forest in Python Series: Double-Threaded Binary Search Tree (CodeProject)
+
+Introduction
+
+Add your highlights:
+https://briefly.co/anchor/JavaScript/story/build-the-forest-in-python-series-double-threaded-binary-search-tree?twitterHighlight=true&f=bresaola&utm_source=Twitter&utm_medium=autotweet&utm_content=unhighlighted&utm_campaign=JavaScript…
+ #javascript #js
+2
+54-7 Detailed Tips To Help You Perform Better In Data Science And Machine Learning Interviews.
+Far and away the best prize that life offersis the chance to work hard at work worth doing...
+https://artificialintelligencebits.com/7-detailed-tips-to-help-you-perform-better-in-data-science-and-machine-learning-interviews/…
+#Python #Python #AI
+7 Detailed Tips To Help You Perform Better In Data Science And Machine Learning Interviews - AI...
+Far and away the best prize that life offersis the chance to work hard at work worth doing. Preparation for interviews related to Data Science and machine learning can sometimes be hard and excruci...
+artificialintelligencebits.com
+1
+55-My Ball Python Isabel
+https://deviantart.com/errorgvs/art/Ball-Python-Isabel-874599861…
+
+#Snake #Python
+2
+56-just posted: How to install Python 3.9.4 on Raspberry Pi https://ramoonus.nl/2021/04/10/how-to-install-python-3-9-4-on-raspberry-pi/… #python #raspberrypi
+How to install Python 3.9.4 on Raspberry Pi - The Ramonologue
+This short guide explains how to install Python 3.9.4 on a Raspberry Pi running Raspbian. First install the dependencies needed to build sudo apt-get update sudo apt-get install -y build-essential...
+ramoonus.nl
+57-Latest 7-day average for COVID-19 in England - 2343 #COVID19 #python #pandas
+1
+4
+2
+58-My Ball Python Lucy
+https://deviantart.com/errorgvs/art/Ball-Python-Lucy-874600407…
+
+#Snake #Python
+2
+59-Tobias, a senior data scientist and AI co-founder, had this to say about Advancing Into Analytics:
+
+"This book is a gold mine for anyone who wants to level up their analytics game."
+
+Learn about the book and pre-order your copy: https://georgejmount.com/book/  #DataScience #Analytics
+Advancing into Analytics: From Excel to Python and R (O’Reilly, Spring 2021 Anticipated)
+On this page you’ll get updates about my forthcoming book with O’Reilly Media, Advancing into Analytics: From Excel to R and Python. If you are a spreadsheet user looking to beef up you…
+georgejmount.com
+2
+60-How machine learning works?.
+How machine learning works in the real world and how data scientists use the four necessary steps for building a machine learning application (or model)...
+http://otechtalks.tv/how-machine-learning-works-2/…
+#Python #Python #AI
+How machine learning works? - Open Tech Talks - Technology worth Talking
+How machine learning works in the real world and how data scientists use the four necessary steps for building a machine learning
+otechtalks.tv
+2
+61-Introducing Python: Modern Computing in Simple Packages 
+
+Link - https://amzn.to/323ZAzb
+
+#Python #100DaysOfCode #CodeNewbie #WomenWhoCode #DEVCommunity #codinglife #DataScience #AI #ArtificialIntelligence #programming
+Introducing Python: Modern Computing in Simple Packages
+Introducing Python: Modern Computing in Simple Packages
+amazon.com
+27
+10
+62-Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python, 2nd Edition https://amazon.com/dp/1839217715?tag=zippylab-20&linkCode=osi&th=1&psc=1… #datascience #ad
+Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and...
+Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python, 2nd Edition
+amazon.com
+5
+63-#Python dream meaning: You are a powerful manifester
+Python dream meaning: You are a powerful manifester
+Python dream seeing people need to meditate on the Muladhara Chakra or the Root Chakra and ensure to exercise daily to keep physical energy/power in check.
+currentriggers.com
+2
+1
+64-The Python Language Reference Manual (Python Manual) https://zpy.io/29be05cd  #python #ad
+3
+65-#iOS  #Automated | Scout APM - Leading-edge performance monitoring starting at $39/month
+Application Monitoring for Ruby, PHP, Node.js, Python, and Elixir ~ Scout
+Rails Monitoring, Django Monitoring, Elixir Phoenix Monitoring, PHP Laravel Monitoring, and more that identifies slow database queries, memory leaks, and slow custom code.
+scoutapm.com
+1
+1
+66-Replace string between two strings with duplicate markers in string https://stackoverflow.com/questions/67030597/806889… #python3x #python #string
+4
+67-Love to read books? Here are some free books to learn Web development 
+. BTW, This my Tweet no 
+.
+https://freefrontend.com/free-web-books/
+
+#CSS #100DaysOfCode #WomenWhoCode #javascript #WEB #code #CodeNewbie #Python #Twitter #MachineLearning #DataScience
+#dev #OpenSource
+Free Web Programming Books
+Free HTML, CSS and JavaScript (jQuery, Angular, React, Node and other) books. Read online and download (.pdf)
+freefrontend.com
+1
+12
+3
+68-Made a instagram scraper with python.
+
+#100DaysOfCode
+3
