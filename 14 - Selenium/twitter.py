@@ -26,8 +26,22 @@ class Twitter:
         btnSubmit.click()
  
         time.sleep(2)
+    def search(self , hashtag):
+        searchInput = self.browser.find_element_by_xpath("//*[@id='react-root']/div/div/div[2]/main/div/div/div/div[2]/div/div[2]/div/div/div/div[1]/div/div/div/form/div[1]/div/div/div[2]/input")
+        searchInput.send_keys(hashtag)
+        searchInput.send_keys(Keys.ENTER)
+        time.sleep(2)
+
+
+        list = self.browser.find_elements_by_xpath("//div[@data-testid='tweet']/div[2]/div[2]")
+        for item in list:
+            print(item.text)
+        
+        
+        # time.sleep(2)
+        # print("count: "+ str(len(list)))
 
 twitter = Twitter(username,password)
 # login
 twitter.singIn()
- 
+twitter.search("python")
