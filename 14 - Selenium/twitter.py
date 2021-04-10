@@ -32,12 +32,29 @@ class Twitter:
         searchInput.send_keys(Keys.ENTER)
         time.sleep(2)
 
-
         list = self.browser.find_elements_by_xpath("//div[@data-testid='tweet']/div[2]/div[2]")
         for item in list:
+            print(len(list))
+            print("*************")
             print(item.text)
         
+
+       
+        last_height= self.browser.execute_script("return document.documentElement.scrollHeight")
+        loopCounter=0
+
+        while True:
+            if loopCounter > 5:
+                break
+            self.browser.execute_script("window.scrollTo(0,document.documentElement.scrollHeight);")
+            time.sleep(2)
+            new_height = self.browser.execute_script("return document.documentElement.scrollHeight")
+            if last_height == new_height:
+                break
+            last_height = new_height
+            loopCounter+=1
         
+     
         # time.sleep(2)
         # print("count: "+ str(len(list)))
 
