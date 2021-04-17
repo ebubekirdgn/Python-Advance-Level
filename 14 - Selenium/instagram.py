@@ -88,7 +88,6 @@ class Instagram:
         else:
             print("zaten takip etmiyorsunuz.")
 
-111
 instgrm = Instagram(username, password)
 instgrm.signIn()
 instgrm.getFollowers(50)
