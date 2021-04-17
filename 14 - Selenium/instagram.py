@@ -78,7 +78,7 @@ class Instagram:
 
     def unFollowUser(self, username):
         self.browser.get("https://www.instagram.com/"+ username)
-        time.sleep(2)
+        time.sleep(4)
 
         followButton = self.browser.find_element_by_tag_name("button")
         if followButton.text == "Following":
@@ -88,7 +88,7 @@ class Instagram:
         else:
             print("zaten takip etmiyorsunuz.")
 
-
+111
 instgrm = Instagram(username, password)
 instgrm.signIn()
 instgrm.getFollowers(50)

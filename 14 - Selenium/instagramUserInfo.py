@@ -1,2 +1,2 @@
-username = "<kullanici adini gir>"
-password = "<parolanı gir>"
+username = "kullanıcı adı yazılacka"
+password = "parola yazılacak"
