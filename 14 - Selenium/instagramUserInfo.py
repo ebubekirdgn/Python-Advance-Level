@@ -1,2 +1,2 @@
-username = "kullanıcı adı yazılacka"
-password = "parola yazılacak"
+username = "kullanıcı adı"
+password = "parola gelecek"
