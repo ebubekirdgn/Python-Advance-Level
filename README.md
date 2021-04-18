@@ -51,4 +51,17 @@ API documentation:
 pip install -U selenium
 ```
 
+ # Python OpenCv
+ 
+Project Requirements
+
+```sh
+pip install opencv-python
+```
+
+```sh
+pip install mediapipe
+```
+
+
 
