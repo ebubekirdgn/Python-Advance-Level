@@ -2,6 +2,8 @@ import time
 import os
 from cv2 import cv2
 import HandTrackingModule as htm 
+
+
 wCam,hCam = 648,480
 
 cap = cv2.VideoCapture(0, cv2.CAP_DSHOW) # pc kamerasının acılmasını saglar
