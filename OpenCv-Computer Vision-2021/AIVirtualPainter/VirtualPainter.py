@@ -48,11 +48,11 @@ while True:
           x2, y2 = lmList[12][1:]
           #3. Check which fingers are up
           fingers = detector.fingersUp()
-          print(fingers)
+        #   print(fingers)
            #4. If selection mode -Two finger are up
           if fingers[1] and fingers[2]:
                 xp, yp = 0, 0
-                print("Selection Mode")
+                # print("Selection Mode")
 
                 #Checking for the click
                 if y1 < 125:
@@ -74,7 +74,7 @@ while True:
             #5. If Drawing Mode - Index finger is up
           if fingers[1] and fingers[2] == False:
                 cv2.circle(img, (x1, y1), 15, drawColor,cv2.FILLED)
-                print("Drawing Mode")
+                # print("Drawing Mode")
                 if xp == 0 and yp == 0:
                     xp, yp = x1, y1
 
