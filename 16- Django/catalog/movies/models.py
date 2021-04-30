@@ -11,3 +11,6 @@ class Movie(models.Model):
 
     def __str__(self):
         return self.name
+
+    def get_image_path(self):
+        return '/img/'+ self.image
