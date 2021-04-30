@@ -52,4 +52,7 @@ def register(request):
         return render(request, 'user/register.html')
 
 def logout(request):
-    return render(request, 'user/logout.html')
+    if request.method == 'POST':
+        auth.logout(request)
+        messages.add_message(request, messages.SUCCESS, 'Oturumunuz kapatıldı.')
+        return redirect('index')
