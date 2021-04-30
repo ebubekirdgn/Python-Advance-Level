@@ -31,6 +31,26 @@
                         <a  href="{% url 'movies' %}" class="nav-link">Movies</a>
                     </li>
                 </ul>
+                <ul class="navbar-nav">
+                    <li 
+                        {% if 'login' in request.path %} 
+                            class="nav-item active"
+                        {% else %}
+                            class="nav-item"
+                        {% endif %}
+                    >
+                        <a  href="{% url 'login' %}" class="nav-link">Login</a>
+                    </li>  
+                    <li 
+                        {% if 'register' in request.path %} 
+                            class="nav-item active"
+                        {% else %}
+                            class="nav-item"
+                        {% endif %}
+                >
+                    <a  href="{% url 'register' %}" class="nav-link">Register</a>
+                </li>     
+                </ul>
             </div>
         </div>
 </header>
