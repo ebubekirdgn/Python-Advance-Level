@@ -58,10 +58,13 @@ Project Requirements
 ```sh
 pip install opencv-python
 ```
-
 ```sh
 pip install mediapipe
 ```
+```sh
+pip install autopy
+```
+WARNING : Autopy -> Use the 3.8 Python version, the autopy doesn't support 3.9
 
 
 
