@@ -67,7 +67,6 @@ result = re.findall("[^0-9]", str)
               abc  : 1 match
               abcd : 2 matches
 
-    
 """
 
 result = re.findall("...", str)
