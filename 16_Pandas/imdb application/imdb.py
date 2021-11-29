@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("datasets/imdb.csv")
+df = pd.read_csv("imdb.csv")
 
 # 1- Dosyada hakkındaki bilgiler.
 result = df
