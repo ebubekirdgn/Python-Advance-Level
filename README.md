@@ -14,12 +14,12 @@
 | 7. [Modules](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/7%20-%20Modules) |
 | 8. [Errors and Errors Management](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/8%20-%20Errors%20and%20Errors%20Management) |
 | 9. [File Management](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/9%20-%20File%20Management) |
-| 10.[Advanced Properties of Functions](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/10%20-%20Advanced%20Properties%20of%20Functions) |
-| 11.[Iterators](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/11%20-%20Iterators)  |
-| 12.[Generators](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/12%20-%20Generators)  |
-| 13.[Advanced Python Modules](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/18%20-%20Advanced%20Python%20Modules)|
-| 14.[Selenium](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/14%20-%20Selenium)  |
-| 14.[Numpy](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/19%20-%20Numpy)  |
+| 10. [Advanced Properties of Functions](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/10%20-%20Advanced%20Properties%20of%20Functions) |
+| 11. [Iterators](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/11%20-%20Iterators)  |
+| 12. [Generators](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/12%20-%20Generators)  |
+| 13. [Advanced Python Modules](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/18%20-%20Advanced%20Python%20Modules)|
+| 14. [Selenium](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/14%20-%20Selenium)  |
+| 15. [Numpy](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/19%20-%20Numpy)  |
 
 
 # Selenium 
