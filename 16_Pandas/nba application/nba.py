@@ -37,4 +37,12 @@ result = df["Team"].value_counts()
 # 11- İsmi içinde "and" geçen kayıtları bulunuz.
 df.dropna(inplace = True)  #NaN olanları attık
 result =df[ df["Name"].str.contains("and")]
+
+def str_find(name):
+    if "and" in name.lower():
+        return True
+    return False
+
+result = df[df["Name"].apply(str_find)]
+
 print(result)
