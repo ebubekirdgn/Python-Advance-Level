@@ -15,6 +15,10 @@
 13..
 14.[Selenium](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/14%20-%20Selenium)
 
+| Key | Symbol |
+| --- | --- |
+| Option | ⌥ |
+
 
 # Selenium 
 
