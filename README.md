@@ -19,6 +19,7 @@
 | 12.[Generators](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/12%20-%20Generators)  |
 | 13.[Advanced Python Modules](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/18%20-%20Advanced%20Python%20Modules)|
 | 14.[Selenium](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/14%20-%20Selenium)  |
+| 14.[Numpy](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/19%20-%20Numpy)  |
 
 
 # Selenium 
