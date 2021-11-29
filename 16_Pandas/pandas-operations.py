@@ -21,18 +21,18 @@ result = df["Column2"].value_counts() # her bir elemanın kaç defa tekrarladıg
 result = df["Column1"] * 2 
 result = df["Column1"].apply(kareal) #column1 icindeki degerler sırasıyla kareal methoduna verilir.
 result = df["Column1"].apply(kareal2) # yukarıdaki ile aynı işi yapar.
-result = df["Column1"].apply(lambda x: x * x)
-df["Column4"] = df["Column3"].apply(len)
+result = df["Column1"].apply(lambda x: x * x) 
+df["Column4"] = df["Column3"].apply(len) #Column3 icindeki her elemanın kaç karakter oldugunu verir.
 
-result = df.columns
-result = len(df.columns)
-result = df.index
-result = len(df.index)
+result = df.columns 
+result = len(df.columns) # column adetini verir.
+result = df.index # kac adet oldugunu ve kacar kacar arttıgını verir.
+result = len(df.index) # 5 satir oldugunu verir.
 result = df.info
 
-result = df.sort_values("Column2")
-result = df.sort_values("Column3")
-result = df.sort_values("Column3", ascending = False)
+result = df.sort_values("Column2")  # Column2 ye göre sıralama yapar.
+result = df.sort_values("Column3")  # Column3 ye göre sıralama yapar.
+result = df.sort_values("Column3", ascending = False)  # Column3 ye göre sıralama yapar ancak azdan coga dogru artırır.
 
 data = {
     "Ay": ["Mayıs","Haziran","Nisan","Mayıs","Haziran","Nisan","Mayıs","Haziran","Nisan"],
