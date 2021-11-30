@@ -21,7 +21,7 @@ result = df.head()
 #5- Son 5 kaydı gösterin
 result = df.tail()
  
-#6 Corona virüs türkiyede ilk hangi tarihte görülmüştür.
+#6 Corona virüs Türkiyede ilk hangi tarihte görülmüştür.
 result = df[df["Günlük Vaka"] == df["Günlük Vaka"].min()]["Tarih"].iloc[0]
 
 #7 2020-2021 tarihi arasında günlük vaka sayısının en fazla olduğu gün
