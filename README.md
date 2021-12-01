@@ -6,7 +6,7 @@
 | Contents |
 | --- |
 | 1. [Object and Oriented Data Structures](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/01_Object%20and%20Data%20Structures) |
-| 2. [Operators](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/02_%20-%20Operators) |
+| 2. [Operators](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/02_Operators) |
 | 3. [Conditional Expression](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/3%20-%20Conditional%20Expressions) |
 | 4. [Loops](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/4%20-%20Loops) |
 | 5. [Functions](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/5%20-%20Functions) |
