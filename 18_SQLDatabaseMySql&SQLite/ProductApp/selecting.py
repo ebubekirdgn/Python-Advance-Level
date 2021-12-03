@@ -39,7 +39,7 @@ def insertProducts(list):
         print('database bağlantısı kapandı.')
 
 def getProducts():
-    connection = mysql.connector.connect(host="localhost", user = "root", password="mysql1234", database="node_app")
+    connection = mysql.connector.connect(host="localhost", user = "root", password="12Plp***", database="node_app")
     cursor = connection.cursor()
 
     # cursor.execute('Select * From Products')
