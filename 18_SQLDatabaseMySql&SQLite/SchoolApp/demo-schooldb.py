@@ -50,6 +50,7 @@ from datetime import datetime
 from connection import connection
 
 class Student:
+    #connection class seviyesine indi.
     connection = connection
     mycursor = connection.cursor()
 
@@ -67,7 +68,7 @@ class Student:
     def saveStudent(self):
         sql = "INSERT INTO Student(StudentNumber,Name,Surname,Birthdate,Gender) VALUES (%s,%s,%s,%s,%s)"
         value = (self.studentNumber,self.name, self.surname,self.birthdate,self.gender)
-        Student.mycursor.execute(sql,value)
+        Student.mycursor.execute(sql,value) #birleştirme yapıp komutu calıstırır.
 
         try:
             Student.connection.commit()
@@ -77,6 +78,7 @@ class Student:
         finally:
             Student.connection.close()
 
+    #aynı amaca yonelik seyler icin kullanılır.
     @staticmethod
     def saveStudents(students):
         sql = "INSERT INTO Student(StudentNumber,Name,Surname,Birthdate,Gender) VALUES (%s,%s,%s,%s,%s)"
