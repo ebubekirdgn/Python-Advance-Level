@@ -42,16 +42,23 @@ def getProducts():
     connection = mysql.connector.connect(host="localhost", user = "root", password="mysql1234", database="node_app")
     cursor = connection.cursor()
 
-    # cursor.execute('Select * From Products')
-    cursor.execute('Select name,price From Products')
+    cursor.execute("Select * From Products")
 
-    # result = cursor.fetchall() Birden fazla kayıt almak için kullanılır.
-    result = cursor.fetchone() #buldugun ilk kaydı bana getir demektir.
-    
-    print(f'name: {result[0]} price: {result[1]}')
+    result = cursor.fetchall()    
 
-    # for product in result:
-    #     # print(f'name: {product[1]} price: {product[2]}')
-    #     print(f'name: {product[0]} price: {product[1]}')
+    for product in result:
+        print(f'id: {product[0]} name: {product[1]} price: {product[2]}')
 
-getProducts()
+def getProductById(id):
+    connection = mysql.connector.connect(host="localhost", user = "root", password="mysql1234", database="node_app")
+    cursor = connection.cursor()
+
+    sql = "Select * From Products Where id=%s"
+    params = (id,)
+
+    cursor.execute(sql,params)
+
+    result = cursor.fetchone()    
+
+    print(f'id: {result[0]} name: {result[1]} price: {result[2]}')
+
