@@ -1,7 +1,7 @@
 import mysql.connector
 
 def insertProduct(name, price, imageUrl, description):
-    connection = mysql.connector.connect(host="localhost", user = "root", password="mysql1234", database="node_app")
+    connection = mysql.connector.connect(host="localhost", user = "root", password="12Plp***", database="node_app")
     cursor = connection.cursor()
 
     sql = "INSERT INTO Products(name,price,imageUrl,description) VALUES (%s,%s,%s,%s)" 
@@ -20,7 +20,7 @@ def insertProduct(name, price, imageUrl, description):
         print('database bağlantısı kapandı.')
 
 def insertProducts(list):
-    connection = mysql.connector.connect(host="localhost", user = "root", password="mysql1234", database="node_app")
+    connection = mysql.connector.connect(host="localhost", user = "root", password="12Plp***", database="node_app")
     cursor = connection.cursor()
 
     sql = "INSERT INTO Products(name,price,imageUrl,description) VALUES (%s,%s,%s,%s)" 
@@ -39,7 +39,7 @@ def insertProducts(list):
         print('database bağlantısı kapandı.')
 
 def getProducts():
-    connection = mysql.connector.connect(host="localhost", user = "root", password="mysql1234", database="node_app")
+    connection = mysql.connector.connect(host="localhost", user = "root", password="12Plp***", database="node_app")
     cursor = connection.cursor()
 
     cursor.execute("Select * From Products Order By name, price")
@@ -55,7 +55,7 @@ def getProducts():
         print('database bağlantısı kapandı.')
 
 def getProductById(id):
-    connection = mysql.connector.connect(host="localhost", user = "root", password="mysql1234", database="node_app")
+    connection = mysql.connector.connect(host="localhost", user = "root", password="12Plp***", database="node_app")
     cursor = connection.cursor()
 
     sql = "Select * From Products Where id=%s"
@@ -68,7 +68,7 @@ def getProductById(id):
     print(f'id: {result[0]} name: {result[1]} price: {result[2]}')
 
 def updateProduct(id, name, price):
-    connection = mysql.connector.connect(host="localhost", user = "root", password="mysql1234", database="node_app")
+    connection = mysql.connector.connect(host="localhost", user = "root", password="12Plp***", database="node_app")
     cursor = connection.cursor()
 
     sql = "Update products Set name= %s, price= %s where id= %s"
@@ -85,7 +85,7 @@ def updateProduct(id, name, price):
         print('database bağlantısı kapandı.')
 
 def deleteProduct(id):
-    connection = mysql.connector.connect(host="localhost", user = "root", password="mysql1234", database="node_app")
+    connection = mysql.connector.connect(host="localhost", user = "root", password="12Plp***", database="node_app")
     cursor = connection.cursor()
 
     sql = "delete from products where id=%s"
