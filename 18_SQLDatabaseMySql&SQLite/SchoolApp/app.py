@@ -42,6 +42,8 @@ class App:
         student[0].gender = input('cinsiyet (E/K):') or student[0].gender
         student[0].classid = input('sınıf: ') or student[0].classid
 
+	#or student[0].x demek kullanıcı herhangi bir degisiklik yapmazsa eski hali kalsın dedik.
+
         year = input("yıl: ") or student[0].birthdate.year
         month = input("ay: ") or student[0].birthdate.month
         day = input("gün: ") or student[0].birthdate.day
