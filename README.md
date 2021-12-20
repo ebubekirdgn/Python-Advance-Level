@@ -24,7 +24,7 @@
 | 17. [Matploid](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/17_Matploid)|
 | 18. [SQL Database MySql & SQLite](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/18_SQLDatabaseMySql%26SQLite)|
 | 19. [NoSQL Database MongoDb](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/19_NoSQL%20Database%20MongoDb)|
-| 20. [2Desktop Application Development PyQt5](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/20_DesktopApplicationDevelopmentPyQt5)|
+| 20. [Desktop Application Development PyQt5](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/20_DesktopApplicationDevelopmentPyQt5)|
 | 21. [Web Development with DJANGO](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/21_Django)  |
 | 22. [Computer Vision Open CV](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/22_OpenCv-Computer%20Vision-2021)  |
 
