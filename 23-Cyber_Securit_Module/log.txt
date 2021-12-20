@@ -1,0 +1,12 @@
+google.comDAMAGE -- 
+Date :2021-12-20 22:23:44.581941
+google.comDAMAGE -- 
+Date :2021-12-20 22:24:05.374783
+www.google.comNOT DAMAGE -- 
+Date :2021-12-20 22:24:15.636642
+www.google.comNOT DAMAGE -- 
+Date :2021-12-20 22:24:16.739977
+www.google.comNOT DAMAGE -- 
+Date :2021-12-20 22:24:16.894553
+www.google.comNOT DAMAGE -- 
+Date :2021-12-20 22:24:17.041242
