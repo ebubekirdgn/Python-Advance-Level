@@ -2,6 +2,7 @@ from tkinter import *
 import datetime
 
 def check_it():
+    #Ulusal Siber Olaylara Müdahale Merkezi
     file = open("usom.txt","r")
     content =file.read()
     file.close()
