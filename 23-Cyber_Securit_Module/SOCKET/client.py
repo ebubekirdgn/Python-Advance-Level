@@ -8,4 +8,3 @@ with socket.socket() as soket:
     soket.sendall(b"Hello Cyber")
     data = soket.recv(1024) # Kullanıcıdan gelen veriyide 1024 byte olarak alınmasını sagladık
 print(data)
-    
