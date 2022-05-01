@@ -1,0 +1,18 @@
+Terminal Ekranında
+# yönetici yetkisi ile çalıştırmak için sudo ile çalıştırıyoruz
+sudo scapy
+
+>>> capture = sniff(count=5)
+>>> capture.summary()
+
+Eğer sadece TCP paketleri yakalanacaksa
+>> capture = sniff(filter='tcp', count=5)
+
+
+Eğer arayüz seçilmek istenirse
+>>> capture = sniff(iface='eth0', count=5)
+
+
+
+Sorgularken özet göstermek için
+>>> sniff(prnt=lambda x:x.summary(), count=5)
