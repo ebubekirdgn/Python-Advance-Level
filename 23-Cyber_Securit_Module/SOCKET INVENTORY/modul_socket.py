@@ -29,6 +29,4 @@ for ip in ips.splitlines():
             pass
         
 print(port_list)
-print(banner_list)
-        
-    
+print(banner_list)    
