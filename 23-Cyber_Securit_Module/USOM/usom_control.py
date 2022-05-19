@@ -3,6 +3,7 @@ import datetime
 
 def check_it():
     #Ulusal Siber Olaylara Müdahale Merkezi
+    #file = open("tamyoluyaz/USOM/usom.txt","r")
     file = open("usom.txt","r")
     content =file.read()
     file.close()
