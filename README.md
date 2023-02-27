@@ -2,7 +2,6 @@
 
  
 
-
 | Contents |
 | --- |
 | 1. [Object and Oriented Data Structures](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/01_Object%20and%20Data%20Structures) |
