@@ -25,3 +25,4 @@
 | 20. [Desktop Application Development PyQt5](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/20_DesktopApplicationDevelopmentPyQt5)|
 | 21. [Web Development with DJANGO](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/21_Django)  |
 | 22. [Computer Vision Open CV](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/22_OpenCv-Computer%20Vision-2021)  |
+  
