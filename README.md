@@ -24,5 +24,4 @@
 | 19. [NoSQL Database MongoDb](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/19_NoSQL%20Database%20MongoDb)|
 | 20. [Desktop Application Development PyQt5](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/20_DesktopApplicationDevelopmentPyQt5)|
 | 21. [Web Development with DJANGO](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/21_Django)  |
-| 22. [Computer Vision Open CV](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/22_OpenCv-Computer%20Vision-2021)  |
-  
+| 22. [Computer Vision Open CV](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/22_OpenCv-Computer%20Vision-2021)  | 
