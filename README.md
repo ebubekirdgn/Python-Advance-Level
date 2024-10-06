@@ -28,3 +28,4 @@
 | 23. [Cyber_Securit_Module](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/23-Cyber_Securit_Module)  | 
 | 24. [AI](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/24-AI)  | 
 | 25. [Deep Learning](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/25-Deep-Learning)  | 
+| 26. [Computer-Vision-Keras](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/26-Computer-Vision-Keras)  | 
