@@ -1,0 +1,49 @@
+from ultralytics import YOLOv10
+import cv2
+import os
+
+# YOLOv10 modelini yükle
+model = YOLOv10(f'{HOME}/runs/detect/train2/weights/best.pt')
+
+# Giriş resmi ve boyutları
+input_image_path = f'{HOME}/test/202.JPG'
+input_image = cv2.imread(input_image_path)
+input_image_height, input_image_width, _ = input_image.shape
+
+# Çerçeve boyutları
+frame_size = 128
+overlap = 0  # Örtüşme miktarı olmadığı için 0
+
+# Çerçeveleri kaydetmek için klasör oluştur
+output_folder = f'{HOME}/test_sonuclari'
+os.makedirs(output_folder, exist_ok=True)
+
+# Her bir çerçeve için tespit sonuçlarını al ve kaydet
+for i in range(0, input_image_height, frame_size):
+    for j in range(0, input_image_width, frame_size):
+        # Çerçeve başlangıç ve bitiş koordinatları
+        start_x = j
+        start_y = i
+        end_x = min(start_x + frame_size, input_image_width)
+        end_y = min(start_y + frame_size, input_image_height)
+
+        # Çerçeve resmini al
+        frame = input_image[start_y:end_y, start_x:end_x]
+
+        # Tahminlerde bulun
+        results = model(frame, conf=0.2)
+
+        # results değişkeninin tipini kontrol et
+        if isinstance(results, list):
+            # Listenin ilk elemanını al
+            results = results[0]
+
+        # Nesne sayısını al ve çerçevenin adını oluştur
+        object_count = len(results.boxes)
+        frame_label = f'cerceve{object_count}.jpg'
+
+        # Çerçeveyi ve tespit edilen nesneleri kaydet
+        output_path = os.path.join(output_folder, frame_label)
+        results.save(output_path)
+
+print("Çerçeveler başarıyla kaydedildi.")
