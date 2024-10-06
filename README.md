@@ -27,4 +27,4 @@
 | 22. [Computer Vision Open CV](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/22_OpenCv-Computer%20Vision-2021)  | 
 | 23. [Cyber_Securit_Module](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/23-Cyber_Securit_Module)  | 
 | 24. [AI](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/24-AI)  | 
-| 24. [Deep Learning](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/25-Deep-Learning)  | 
+| 25. [Deep Learning](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/25-Deep-Learning)  | 
